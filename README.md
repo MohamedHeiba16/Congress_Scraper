@@ -1,6 +1,6 @@
 # Congress_Scraper
 
-##About 
+About 
 
 Spider built with playwright,requests,BeautifulSoup to scrape the urls of member's images and download it to your directory 
 

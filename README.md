@@ -1,8 +1,9 @@
 # Congress_Scraper
+==================
 
 ## About 
 
-Spider built with playwright,requests,BeautifulSoup to scrape the urls of member's images and download it to your directory 
+Spider built with playwright,requests,BeautifulSoup to scrape the urls of member's images and `download` it to your directory 
 
 ## Screenshot
 
@@ -12,8 +13,10 @@ Script will iterate over all utls and catch every url that ends with `.jpg` and 
 
 ## Installation and Running
 
+```
 git clone https://github.com/MohamedHeiba16/Congress_Scraper
 cd Congress_Scraper
 Ctrl + Shift + P
+```
 
 

@@ -12,7 +12,7 @@ Script will iterate over all utls and catch every url that ends with `.jpg` and 
 
 ## Installation and Running
 
-- git clone https://github.com/MohamedHeiba16/Congress_Scraper
+git clone https://github.com/MohamedHeiba16/Congress_Scraper
 cd Congress_Scraper
 Ctrl + Shift + P
 
